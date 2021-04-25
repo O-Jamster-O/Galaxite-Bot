@@ -1,5 +1,4 @@
 # Galaxite-Bot
-
 <h2>A custom Super Smash Bros. Ultimate discord bot made for the Galaxite Smash discord server.</h2>
 
 Notes:
